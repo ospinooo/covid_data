@@ -1,3 +1,5 @@
+from enum import Enum
+
 
 class Covid19Parameters(Enum):
 

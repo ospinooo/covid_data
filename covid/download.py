@@ -5,8 +5,6 @@ import os
 import subprocess
 import datetime
 
-from enum import Enum
-
 
 def download_daily():
 
