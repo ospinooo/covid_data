@@ -8,7 +8,7 @@
 
 ## Author
 
-👤 **Pablo Ospino	**
+👤 **Pablo Ospino**
 
 * Website: https://ospino.me
 * Github: [@ospinooo](https://github.com/ospinooo)
